@@ -60,4 +60,3 @@ Creating practical, well-documented 3D printing solutions for makers and hobbyis
 **Version 1.0** | © 2024 Shimmy's Customs
 
 *Documentation last updated: December 2024*
-```
